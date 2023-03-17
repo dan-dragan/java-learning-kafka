@@ -1,2 +1,3 @@
-# java-learning-kafka
-Code exercises in java for "Learning Kaka" Linked in course
+# KafkaBeginnerCourse
+
+Sample code from linked in learning  kafka course
